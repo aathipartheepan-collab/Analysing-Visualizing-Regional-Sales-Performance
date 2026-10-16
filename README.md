@@ -84,8 +84,7 @@ Open the workbook in the `excel/` folder. It contains the supplied source workbo
 3. Monitor monthly sales trends and compare them with campaign or seasonal activity where that information is available.
 4. Review discount levels alongside profit and margin, rather than using sales alone to judge performance.
 
-## GitHub Upload
-Create a new GitHub repository named `regional-sales-performance`, then upload the contents of this folder (not just the ZIP file). Include the README and project files so recruiters can understand and reproduce the analysis.
+
 
 ## Author
 **Partheepan** — Data Analyst Portfolio Project
