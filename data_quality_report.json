@@ -1,0 +1,18 @@
+{
+  "source_data_rows_nonblank": 4000,
+  "valid_analysis_rows": 4000,
+  "rows_excluded_missing_core_fields": 0,
+  "duplicate_order_id_rows": 4,
+  "missing_values_in_valid_dataset": {
+    "Order ID": 0,
+    "Order Date": 0,
+    "Region": 0,
+    "Product Category": 0,
+    "Sales Amount": 0,
+    "Quantity Sold": 0,
+    "Discount (%)": 0,
+    "Profit": 0
+  },
+  "date_min": "2022-11-16",
+  "date_max": "2024-11-15"
+}
