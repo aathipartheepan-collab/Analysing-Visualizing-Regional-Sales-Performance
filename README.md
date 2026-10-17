@@ -87,4 +87,10 @@ Open the workbook in the `excel/` folder. It contains the supplied source workbo
 
 
 ## Author
-**Partheepan** — Data Analyst Portfolio Project
+Partheepan — Data Analytics Portfolio Project
+
+Aspiring Data Analyst
+
+- **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
+- **GitHub:** https://github.com/aathipartheepan-collab
+
